@@ -1,2 +1,3 @@
 # hello-world
 For the tutorial ...
+ Superior humans find coffee on the Moon and tacos on Earth.
